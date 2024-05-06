@@ -1,0 +1,26 @@
+p {
+    text-align: center;
+ }
+
+body{
+    background: rgb(222, 205, 238)
+}
+
+h1 strong{
+    color:rgb(183, 0, 255);
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+img{
+    width: 250px
+    height: 250px
+    margin: 10px
+    border-radius: 50%;
+}
